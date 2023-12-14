@@ -1,6 +1,6 @@
 # All in One Hacking toolKit For Hackers, Penetration Tester and CyberSecurity 🥇
 
-<img src="https://github.com/CENSUY/CENSUY/tree/main/images/main.jpg" alt="hackingtoolkit"/>
+<img src="https://github.com/CENSUY/CENSUY/blob/main/images/main.jpg" alt="hackingtoolkit"/>
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://www.youtube.com/@AutoGPT_Live) 
 
@@ -49,7 +49,7 @@
 
 ### Anonymously Hiding Tools 
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg" alt="Anonymously Hiding Tools"/>
+<img src="https://github.com/CENSUY/CENSUY/blob/main/images/h0.jpg" alt="Anonymously Hiding Tools"/>
 
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Multitor](https://github.com/trimstray/multitor)
